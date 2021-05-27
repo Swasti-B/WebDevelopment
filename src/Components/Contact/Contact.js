@@ -13,7 +13,7 @@ function Contact() {
           <p className="lead">Here are my contact details </p>
           <p className="lead">Email : baralswasti@gmail.com </p>
           <p className="lead">Phone : 682-802-1197 </p>
-          <p className="lead">Typical Wake up / Sleep Hours : Other than bootcamp. I will available 12AM-2AM EST via slack </p>
+          <p className="lead">Typical Wake up / Sleep Hours : Other than bootcamp. I will be available 12AM-2AM everyday and 1-2PM EST on weekdays via slack or whatsapp. </p>
         </Container>
       </Jumbotron>
     </div>
