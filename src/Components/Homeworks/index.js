@@ -38,6 +38,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
        
       </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 3</td>
+          <td>CSS selector</td>
+          <td><a href="https://github.com/Swasti-B/CSS-Selectors/tree/master/css-selectors-quiz"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
