@@ -21,6 +21,7 @@ function Homeworks() {
           <th>Type</th>
           <th>Description</th>
           <th>Link</th>
+          <th>GitHub Link</th>
         </tr>
       </thead>
       <tbody>
@@ -28,6 +29,7 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
+          <td></td>
           <td><a href="https://github.com"> Link</a> </td>
        
       </tr>
@@ -36,14 +38,31 @@ function Homeworks() {
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
           <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
+          <td></td>
        
       </tr>
       <tr>
           <th scope="row">2</th>
-          <td>Homework 3</td>
+          <td>Homework 3.1</td>
           <td>CSS selector</td>
+          <td> </td>
           <td><a href="https://github.com/Swasti-B/CSS-Selectors/tree/master/css-selectors-quiz"> Link</a> </td>
        
+      </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 3.2</td>
+          <td>Navigation bar</td>
+          <td><a href="https://codepen.io/swasti-b/pen/YzZrKvp"> Link</a> </td>
+          <td> </td>
+      </tr>
+
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 3.3</td>
+          <td>Javascript function</td>
+          <td><a href="https://codepen.io/swasti-b/pen/VwprmLJ?editors=1111"> Link</a> </td>
+          <td> </td>
       </tr>
         
       </tbody>
