@@ -36,8 +36,8 @@ function Homeworks() {
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
-          <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
+          <td>Javascript functions</td>
+          <td><a href="https://codepen.io/swasti-b/pen/dyvdqJV?editors=1111"> Link</a> </td>
           <td></td>
        
       </tr>
