@@ -72,6 +72,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/swasti-b/pen/qBrpOrO"> Link</a> </td>
           <td> </td>
       </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 5.2</td>
+          <td>Frontier Challenge</td>
+          <td><a href="https://codepen.io/swasti-b/pen/RwpQYWZ"> Link</a> </td>
+          <td> </td>
+      </tr>
       </tbody>
     </Table>
         </Container>
