@@ -30,7 +30,7 @@ function Homeworks() {
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
           <td></td>
-          <td><a href="https://github.com"> Link</a> </td>
+          <td><a href="https://github.com"> Link to code</a> </td>
        
       </tr>
         <tr>
@@ -46,7 +46,7 @@ function Homeworks() {
           <td>Homework 3.1</td>
           <td>CSS selector</td>
           <td> </td>
-          <td><a href="https://github.com/Swasti-B/CSS-Selectors/tree/master/css-selectors-quiz"> Link</a> </td>
+          <td><a href="https://github.com/Swasti-B/CSS-Selectors/tree/master/css-selectors-quiz"> Link to code</a> </td>
        
       </tr>
       <tr>
@@ -85,6 +85,13 @@ function Homeworks() {
           <td>Frontier Challenge</td>
           <td><a href="https://codepen.io/swasti-b/pen/RwpQYWZ"> Link</a> </td>
           <td> </td>
+      </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 10.2</td>
+          <td>Lottery project</td>
+          <td><a href="https://codepen.io/swasti-b/pen/oNZMYGZ"> Link</a> </td>
+          <td> <a href="https://github.com/Swasti-B/Random-Name-Generator"> Link to code</a> </td>
       </tr>
       </tbody>
     </Table>
