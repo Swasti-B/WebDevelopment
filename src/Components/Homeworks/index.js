@@ -93,6 +93,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/swasti-b/pen/oNZMYGZ"> Link</a> </td>
           <td> <a href="https://github.com/Swasti-B/Random-Name-Generator"> Link to code</a> </td>
       </tr>
+      <tr>
+          <th scope="row">2</th>
+          <td>Homework 12.1</td>
+          <td>Carousel</td>
+          <td> </td>
+          <td> <a href="https://github.com/Swasti-B/React-bootstrap-Carousel/tree/master"> Link to code</a> </td>
+      </tr>
       </tbody>
     </Table>
         </Container>
